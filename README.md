@@ -1,1 +1,1 @@
-Cyanogenmod CM-11.0 Device Tree for Micromax Canvas Doodle A111
+cyanogenmod CM-11.0 Device Tree for Galaxy Grand Quattro GT-I8552 (delos3geur)
