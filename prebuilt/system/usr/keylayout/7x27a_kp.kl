@@ -1,4 +1,4 @@
-# Copyright (c) 2011, Code Aurora Forum.
+# Copyright (c) 2011-2012, Code Aurora Forum.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@ key 64    MEDIA_NEXT            WAKE
 key 65    MEDIA_PLAY_PAUSE      WAKE
 key 66    MEDIA_PREVIOUS        WAKE
 key 67    MEDIA_STOP            WAKE
-key 68    CAMERA
+key 212   CAMERA
 key 87    POWER                 WAKE
 key 217   SEARCH                WAKE_DROPPED
 
@@ -40,7 +40,6 @@ key 10    9                 WAKE_DROPPED
 key 11    0                 WAKE_DROPPED
 key 110   MENU              WAKE
 key 102   HOME              WAKE
-key 172   HOME              WAKE
 
 # Row 3
 key 16    Q                 WAKE_DROPPED
